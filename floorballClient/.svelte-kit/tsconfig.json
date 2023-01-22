@@ -13,7 +13,7 @@
 			"./types"
 		],
 		"importsNotUsedAsValues": "error",
-		"isolatedModules": true,
+		"isolatedModules": false,
 		"preserveValueImports": true,
 		"lib": [
 			"esnext",
